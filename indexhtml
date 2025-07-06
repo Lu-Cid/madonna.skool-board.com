@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<!-- saved from url=(0043)https://madonna.skool-board.com/printHostel -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Madonna University, Nigeria Portal</title>
+	<meta name="author" content="SkoolBoard Tertiary">
+	<meta name="description" content="Madonna University, Nigeria course registration, hostel allocation, clearance and all other student activities.">
+	<meta name="keywords" content="Madonna University, Nigeria course registration, hostel allocation, clearance and all other student activities.">
+	  <link href="https://madonna.skool-board.com/media/favicon.png" rel="icon">
+	<link href="https://madonna.skool-board.com/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+ <link href="./Madonna University, Nigeria Portal_files/css2" rel="stylesheet">
+    	<link href="./Madonna University, Nigeria Portal_files/bootstrap.min.css" rel="stylesheet" type="text/css" media="all">
+	<link href="./Madonna University, Nigeria Portal_files/icofont.min.css" rel="stylesheet" type="text/css" media="all">
+	<link href="./Madonna University, Nigeria Portal_files/boxicons.min.css" rel="stylesheet" type="text/css" media="all">
+	<link href="./Madonna University, Nigeria Portal_files/animate.min.css" rel="stylesheet" type="text/css" media="all">
+	<link href="./Madonna University, Nigeria Portal_files/venobox.css" rel="stylesheet" type="text/css" media="all">
+	<link href="./Madonna University, Nigeria Portal_files/aos.css" rel="stylesheet" type="text/css" media="all">
+	<link href="./Madonna University, Nigeria Portal_files/font-awesome.min.css" rel="stylesheet" type="text/css" media="all">
+	<link href="./Madonna University, Nigeria Portal_files/flatpickr.css" rel="stylesheet" type="text/css" media="all">
+	<link href="./Madonna University, Nigeria Portal_files/dataTables.jqueryui.css" rel="stylesheet" type="text/css" media="all">
+	<link href="./Madonna University, Nigeria Portal_files/datatable.css" rel="stylesheet" type="text/css" media="all">
+	<link href="./Madonna University, Nigeria Portal_files/table.css" rel="stylesheet" type="text/css" media="all">
+	<link href="./Madonna University, Nigeria Portal_files/style.css" rel="stylesheet" type="text/css" media="all">
+<link href="./Madonna University, Nigeria Portal_files/watermark-print.css" rel="stylesheet" type="text/css" media="print">
+
+                </head>
+<body data-aos-easing="ease-in-out-back" data-aos-duration="1000" data-aos-delay="0"><button type="button" class="mobile-nav-toggle d-lg-none"><i class="icofont-navigation-menu"></i></button>
+                    
+
+           <div id="header-sticky-wrapper" class="sticky-wrapper is-sticky" style="height: 80px;"><header id="header" class="header-scrolled" style="width: 1264.67px; position: fixed; top: 0px; z-index: 50;">
+                <div class="min-left">
+                    <div class="logo float-left">
+                        <a href="https://madonna.skool-board.com/index.php"><img src="./Madonna University, Nigeria Portal_files/muni_logo.png" alt="" title="" class="img-fluid"></a>
+                    </div>
+                    
+        <nav id="nav-menu-container" class="nav-menu float-right d-none d-lg-block">
+            <ul class="">
+                
+                                <li class="active drop-down"><a href="https://madonna.skool-board.com/printHostel#" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Home">Home</a>
+                                    <ul>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/my_profile" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="My Profile">My Profile</a>
+                                          </li>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/uploads" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Uploads">Uploads</a>
+                                          </li>
+				                    </ul>
+                                </li>
+                                <li class=" drop-down"><a href="https://madonna.skool-board.com/printHostel#" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Admission Process">Admission Process</a>
+                                    <ul>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/printAppSlip" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Application Slip">Application Slip</a>
+                                          </li>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/printAdmissionLetter" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Admission Letter">Admission Letter</a>
+                                          </li>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/printAccLetter" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Acceptance Letter">print Acceptance Letter</a>
+                                          </li>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/printUndLetter" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Letter of Undertaking">Letter of Undertaking</a>
+                                          </li>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/printAttLetter" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Attestation Letter">Attestation Letter</a>
+                                          </li>
+				                    </ul>
+                                </li>
+                                <li class=" drop-down"><a href="https://madonna.skool-board.com/printHostel#" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Course Registration">Course Registration</a>
+                                    <ul>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/courseReg" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Course Registration">Course Registration</a>
+                                          </li>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/printCourseReg" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Print Slip">Print Course Reg.</a>
+                                          </li>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/clearance" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Print Clearance">Print Clearance</a>
+                                          </li>
+				                    </ul>
+                                </li>
+                                <li class=" drop-down"><a href="https://madonna.skool-board.com/printHostel#" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Department">Department</a>
+                                    <ul>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/change_department" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Request for change of dept.">Request for change of dept.</a>
+                                          </li>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/change_department&amp;print_slip=1" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Print Request Slip">Print Request Slip</a>
+                                          </li>
+				                    </ul>
+                                </li>
+                                <li class=" drop-down"><a href="https://madonna.skool-board.com/printHostel#" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Hostel">Hostel</a>
+                                    <ul>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/hostel" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Book room">Book room</a>
+                                          </li>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/printHostel" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Print Slip">Print Slip</a>
+                                          </li>
+				                    </ul>
+                                </li>
+                                <li class=" drop-down"><a href="https://madonna.skool-board.com/printHostel#" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Result Management">Result Management</a>
+                                    <ul>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/assessment" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="View and Print current semester result">Results</a>
+                                          </li>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/assessment&amp;view=cumulative" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="View and Print all your results">Cumulative Results</a>
+                                          </li>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/assessment&amp;dispute=1" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Dispute Results">Dispute Results</a>
+                                          </li>
+				                    </ul>
+                                </li>
+                        <li class="">
+                            <a href="https://madonna.skool-board.com/exeat" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Exeat">Exeat</a>
+                       </li>
+                                <li class=" drop-down"><a href="https://madonna.skool-board.com/printHostel#" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Final Clearance">Final Clearance</a>
+                                    <ul>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/verificationClearanceSlip" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Verification Clearance">Verification Clearance</a>
+                                          </li>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/paymentClearanceSlip" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Payment Clearance">Payment Clearance</a>
+                                          </li>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/examClearanceSlip" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Exam Clearance">Exam Clearance</a>
+                                          </li>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/prospectiveGraduationSlip" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Prospective Graduation">Prospective Graduation</a>
+                                          </li>
+				                    </ul>
+                                </li>
+                                <li class=" drop-down"><a href="https://madonna.skool-board.com/printHostel#" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Payment">Payment</a>
+                                    <ul>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/sch_payment" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="School fee Payment">School Fee Payment</a>
+                                          </li>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/other_payment" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Other Payment">Other Payment</a>
+                                          </li>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/reprint_invoice" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Unpaid Invoices">Unpaid Invoices</a>
+                                          </li>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/delete-txn" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Delete Unpaid Invoices">Delete Invoices</a>
+                                          </li>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/show_payments" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Payment Listing">Payment Listing</a>
+                                          </li>
+				                    </ul>
+                                </li>
+                        <li class="drop-down">
+                            <a href="https://madonna.skool-board.com/printHostel?action=my_profile"><img src="./Madonna University, Nigeria Portal_files/avatar2.png" style="border-radius: 50%; width: 30px;"></a>
+                            <ul>
+                                <li><a href="https://madonna.skool-board.com/xlogout" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="logout">Log Out</a></li>
+                            </ul>
+                       </li>
+            </ul>
+        </nav>
+                        
+                </div>
+            </header></div><!-- #header -->
+            <main id="main">
+    <section>
+      <div class="container aos-init aos-animate" data-aos="fade-up">
+       <div class="white-box" data-watermark="Watermark..">
+        <div class="section-header">
+          <h5 class="section-title"></h5>
+          <p class="section-description"></p>
+        </div>
+        <div class="row container">
+          <div class="col-lg-12 col-md-12d-flex align-items-stretch aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+            <div class="print_head print_only text-center">
+                         <img src="./Madonna University, Nigeria Portal_files/muni_logo.png" alt="college logo">
+
+                </div><br><div class="notice">                        <style>
+                            .list-group-item {
+                                padding: 3px 10px
+                            }
+                        </style>    
+                        <div class="alert alert-info">
+                          <h4>IMPORTANT NOTICE</h4>
+                            <ol class="">
+                                  <li class="">Hostel Allocation form must be duly filled and signed</li>
+                                  <li> <strong>Instructions: </strong>
+                                    <ul>
+                                       
+                                        <li class="">All information required must be accurate.
+                                        </li><li class="">The signatures of all appropriate authorities must be obtained.
+                                        </li><li class="">Completed forms should be returned to dean of student affairs for approval
+
+                                        </li>
+                                        <li class="">If anyone is found permitting lodgers or to have allowed lodgers into their rooms shall be
+                                                ejected from the room without any claim to a refund.
+                                        </li>
+                                    </ul>
+
+                                 </li>
+                            </ol>
+                            </div>
+</div>
+
+
+               <div>
+                <table class="stdTable table borderless table-condensed" cellpadding="0" cellspacing="0" border="0">
+                   <tbody><tr>
+                            <td colspan="2" class="formLabel">Name:</td>
+                            <td colspan="2" class="tbTitle">Orji, Gift Uchechukwu</td>
+                            <td rowspan="5" class="tbTitle" valign="top"><img src="./Madonna University, Nigeria Portal_files/8f07e07c177648f9177cdbf564d7845a_47e1d4f5-efab-4de5-9bbe-a75fb024d586_batcheditor_fotor.jpeg" class="imageThumb" alt="passport" width="120px" height="120px">
+                        </td></tr><tr>
+                            <td colspan="2" class="formLabel">Reg. Number:</td>
+                            <td colspan="3" class="tbTitle">EE/22/489</td>
+                        </tr><tr>
+                            <td colspan="2" class="formLabel">Faculty:</td>
+                            <td colspan="3" class="tbTitle">Faculty of Engineering and Technology</td>
+                        </tr><tr>
+                            <td colspan="2" class="formLabel">Department:</td>
+                            <td colspan="3" class="tbTitle">Electrical Electronic</td>
+                        </tr><tr>
+                            <td colspan="2" class="formLabel">Year of Study:</td>
+                            <td colspan="3" class="tbTitle">300L</td>
+                        </tr><tr>
+                            <td colspan="2" class="formLabel">Session:</td>
+                            <td colspan="3" class="tbTitle">2025/2026</td>
+                        </tr><tr>
+                            <td colspan="2" class="formLabel">Hostel Block:</td>
+                            <td colspan="3" class="tbTitle">JESUS THE SAVIOUR AKPUGO (BOYS)</td>
+                        </tr><tr>
+                            <td colspan="2" class="formLabel">Hostel Room:</td>
+                            <td colspan="3" class="tbTitle">B8,2B</td>
+                        </tr><tr>
+                            <td colspan="2" class="formLabel">Hostel Description:</td>
+                            <td colspan="3" class="tbTitle">Up floor,room 8,bed 2,up bunk</td>
+                        </tr><tr>
+                            <td colspan="2" class="formLabel">Type:</td>
+                            <td colspan="3" class="tbTitle">Male Hostel</td>
+                        </tr><tr>
+                            <td colspan="5" class="formLabel">
+                                <br><br><br>
+                                _____________________ <br>
+                                Sub Dean Sign
+                            </td>
+                        </tr></tbody></table>
+                              </div>
+          </div>
+        </div>
+        </div>
+      </div>
+    </section>  
+
+</main>
+            <footer id="footer">
+                                   <div class="container">
+                        <div class="copyright">
+                        © Copyright <strong>Madonna University, Nigeria</strong>. All Rights Reserved.
+                        <br> Powered by SkoolBoard Tx
+                    </div>
+                </div>
+            </footer><!-- #footer -->
+
+           <a href="https://madonna.skool-board.com/printHostel#" class="back-to-top" style="display: inline;"><i class="icofont-simple-up"></i></a>
+
+
+	<script language="JavaScript" src="./Madonna University, Nigeria Portal_files/jquery.min.js.download" type="text/javascript"></script>
+	<script language="JavaScript" src="./Madonna University, Nigeria Portal_files/bootstrap.bundle.min.js.download" type="text/javascript"></script>
+	<script language="JavaScript" src="./Madonna University, Nigeria Portal_files/jquery.easing.min.js.download" type="text/javascript"></script>
+	<script language="JavaScript" src="./Madonna University, Nigeria Portal_files/ePayment.js.download" type="text/javascript"></script>
+	<script language="JavaScript" src="./Madonna University, Nigeria Portal_files/jquery.dataTables.js.download" type="text/javascript"></script>
+	<script language="JavaScript" src="./Madonna University, Nigeria Portal_files/datatable.js.download" type="text/javascript"></script>
+	<script language="JavaScript" src="./Madonna University, Nigeria Portal_files/init-datatable.js.download" type="text/javascript"></script>
+	<script language="JavaScript" src="./Madonna University, Nigeria Portal_files/jquery.sticky.js.download" type="text/javascript"></script>
+	<script language="JavaScript" src="./Madonna University, Nigeria Portal_files/venobox.min.js.download" type="text/javascript"></script>
+	<script language="JavaScript" src="./Madonna University, Nigeria Portal_files/jquery.waypoints.min.js.download" type="text/javascript"></script>
+	<script language="JavaScript" src="./Madonna University, Nigeria Portal_files/counterup.min.js.download" type="text/javascript"></script>
+	<script language="JavaScript" src="./Madonna University, Nigeria Portal_files/aos.js.download" type="text/javascript"></script>
+	<script language="JavaScript" src="./Madonna University, Nigeria Portal_files/main.js.download" type="text/javascript"></script><nav id="nav-menu-container" class="mobile-nav d-lg-none">
+            <ul class="">
+                
+                                <li class="active drop-down"><a href="https://madonna.skool-board.com/printHostel#" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Home">Home</a>
+                                    <ul>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/my_profile" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="My Profile">My Profile</a>
+                                          </li>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/uploads" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Uploads">Uploads</a>
+                                          </li>
+				                    </ul>
+                                </li>
+                                <li class=" drop-down"><a href="https://madonna.skool-board.com/printHostel#" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Admission Process">Admission Process</a>
+                                    <ul>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/printAppSlip" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Application Slip">Application Slip</a>
+                                          </li>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/printAdmissionLetter" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Admission Letter">Admission Letter</a>
+                                          </li>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/printAccLetter" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Acceptance Letter">print Acceptance Letter</a>
+                                          </li>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/printUndLetter" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Letter of Undertaking">Letter of Undertaking</a>
+                                          </li>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/printAttLetter" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Attestation Letter">Attestation Letter</a>
+                                          </li>
+				                    </ul>
+                                </li>
+                                <li class=" drop-down"><a href="https://madonna.skool-board.com/printHostel#" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Course Registration">Course Registration</a>
+                                    <ul>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/courseReg" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Course Registration">Course Registration</a>
+                                          </li>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/printCourseReg" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Print Slip">Print Course Reg.</a>
+                                          </li>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/clearance" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Print Clearance">Print Clearance</a>
+                                          </li>
+				                    </ul>
+                                </li>
+                                <li class=" drop-down"><a href="https://madonna.skool-board.com/printHostel#" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Department">Department</a>
+                                    <ul>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/change_department" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Request for change of dept.">Request for change of dept.</a>
+                                          </li>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/change_department&amp;print_slip=1" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Print Request Slip">Print Request Slip</a>
+                                          </li>
+				                    </ul>
+                                </li>
+                                <li class=" drop-down"><a href="https://madonna.skool-board.com/printHostel#" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Hostel">Hostel</a>
+                                    <ul>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/hostel" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Book room">Book room</a>
+                                          </li>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/printHostel" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Print Slip">Print Slip</a>
+                                          </li>
+				                    </ul>
+                                </li>
+                                <li class=" drop-down"><a href="https://madonna.skool-board.com/printHostel#" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Result Management">Result Management</a>
+                                    <ul>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/assessment" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="View and Print current semester result">Results</a>
+                                          </li>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/assessment&amp;view=cumulative" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="View and Print all your results">Cumulative Results</a>
+                                          </li>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/assessment&amp;dispute=1" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Dispute Results">Dispute Results</a>
+                                          </li>
+				                    </ul>
+                                </li>
+                        <li class="">
+                            <a href="https://madonna.skool-board.com/exeat" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Exeat">Exeat</a>
+                       </li>
+                                <li class=" drop-down"><a href="https://madonna.skool-board.com/printHostel#" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Final Clearance">Final Clearance</a>
+                                    <ul>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/verificationClearanceSlip" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Verification Clearance">Verification Clearance</a>
+                                          </li>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/paymentClearanceSlip" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Payment Clearance">Payment Clearance</a>
+                                          </li>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/examClearanceSlip" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Exam Clearance">Exam Clearance</a>
+                                          </li>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/prospectiveGraduationSlip" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Prospective Graduation">Prospective Graduation</a>
+                                          </li>
+				                    </ul>
+                                </li>
+                                <li class=" drop-down"><a href="https://madonna.skool-board.com/printHostel#" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Payment">Payment</a>
+                                    <ul>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/sch_payment" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="School fee Payment">School Fee Payment</a>
+                                          </li>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/other_payment" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Other Payment">Other Payment</a>
+                                          </li>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/reprint_invoice" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Unpaid Invoices">Unpaid Invoices</a>
+                                          </li>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/delete-txn" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Delete Unpaid Invoices">Delete Invoices</a>
+                                          </li>
+                                          <li>
+                                            <a href="https://madonna.skool-board.com/show_payments" title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Payment Listing">Payment Listing</a>
+                                          </li>
+				                    </ul>
+                                </li>
+                        <li class="drop-down">
+                            <a href="https://madonna.skool-board.com/printHostel?action=my_profile"><img src="./Madonna University, Nigeria Portal_files/avatar2.png" style="border-radius: 50%; width: 30px;"></a>
+                            <ul>
+                                <li><a href="https://madonna.skool-board.com/xlogout" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="logout">Log Out</a></li>
+                            </ul>
+                       </li>
+            </ul>
+        </nav><div class="mobile-nav-overly"></div>
+	<script language="JavaScript" src="./Madonna University, Nigeria Portal_files/tooltips.js.download" type="text/javascript"></script>
+	<script language="JavaScript" src="./Madonna University, Nigeria Portal_files/isotope.pkgd.min.js.download" type="text/javascript"></script>
+	<script language="JavaScript" src="./Madonna University, Nigeria Portal_files/tooltips-popovers.js.download" type="text/javascript"></script>
+	<script language="JavaScript" src="./Madonna University, Nigeria Portal_files/bootstrap-fileupload.js.download" type="text/javascript"></script>
+	<script language="JavaScript" src="./Madonna University, Nigeria Portal_files/flatpickr.js.download" type="text/javascript"></script>
+	<script language="JavaScript" src="./Madonna University, Nigeria Portal_files/date.js.download" type="text/javascript"></script>
+	<script language="JavaScript" src="./Madonna University, Nigeria Portal_files/statelg.js.download" type="text/javascript"></script>
+
+        </body></html>
